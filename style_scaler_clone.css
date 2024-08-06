@@ -118,10 +118,10 @@ section .banner {
 	font-weight: 100;
 }
 
-/* Styles for the Bottom section of the page */
+/* Styles for the Bottom section of the banner */
 .bottom {
 	position: absolute;
-	height: 2rem;
+	height: 2.5rem;
 	width: 100vw;
 	background-color: var(--bgLight);
 	bottom: 0rem;
@@ -137,14 +137,14 @@ section .banner {
 	background-color: var(--white);
 	height: 3rem;
 	border-radius: 1rem;
-	width: 45rem;
+	width: 43rem;
 	left: 5rem;
 }
 
 .banner .ads div {
 	display: flex;
 	align-items: center;
-	font-size: 0.75rem;
+	font-size: 0.7rem;
 }
 
 .banner .ads div img {
@@ -157,7 +157,7 @@ section .banner {
 	background-color: var(--white);
 	bottom: 1rem;
 	right: 2rem;
-	width: 30rem;
+	width: 29rem;
 	border-radius: 2rem;
 	padding: 2rem;
 	display: flex;
